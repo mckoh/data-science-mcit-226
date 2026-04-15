@@ -1,0 +1,501 @@
+Browser,Verweildauer_Sek,Seitenaufrufe,Region,Betriebssystem,Kaufabschluss
+Chrome Mobile,51,3,Burgenland,Android,nein
+Chrome Mobile,265,10,Baden-Württemberg,iOS,nein
+Safari Mobile,299,10,Tirol,Android,nein
+Chrome,381,8,Schleswig-Holstein,Windows,ja
+Firefox,249,10,Rheinland-Pfalz,Windows,ja
+Firefox,356,13,Hessen,macOS,ja
+Chrome,302,11,Wien,Windows,ja
+Safari Mobile,205,7,Steiermark,Android,nein
+Safari Mobile,576,9,Salzburg,iOS,nein
+Chrome Mobile,33,2,Schleswig-Holstein,Android,nein
+Safari Mobile,15,3,Wien,Android,nein
+Chrome,236,10,Saarland,Windows,nein
+Chrome Mobile,21,3,Bayern,Android,nein
+Edge,269,14,Steiermark,macOS,ja
+Chrome,370,13,Burgenland,Windows,ja
+Chrome Mobile,492,8,Salzburg,iOS,nein
+Chrome Mobile,15,3,Niedersachsen,iOS,nein
+Firefox,292,5,Salzburg,Windows,ja
+Safari Mobile,228,7,Brandenburg,Android,nein
+Chrome,128,13,Berlin,macOS,ja
+Chrome Mobile,379,4,Schleswig-Holstein,Android,nein
+Safari Mobile,409,10,Salzburg,iOS,nein
+Chrome Mobile,580,9,Brandenburg,Android,nein
+Chrome Mobile,323,11,Niederösterreich,iOS,nein
+Edge,131,14,Thüringen,macOS,nein
+Chrome,248,13,Rheinland-Pfalz,Windows,ja
+Safari Mobile,38,2,Schleswig-Holstein,Android,nein
+Safari Mobile,11,1,Salzburg,iOS,nein
+Safari Mobile,22,3,Steiermark,Android,nein
+Chrome Mobile,16,2,Baden-Württemberg,iOS,nein
+Edge,311,6,Hamburg,macOS,ja
+Firefox,298,12,Nordrhein-Westfalen,macOS,ja
+Chrome Mobile,272,8,Burgenland,Android,nein
+Safari Mobile,336,6,Brandenburg,iOS,nein
+Chrome Mobile,13,1,Oberösterreich,iOS,nein
+Chrome Mobile,37,1,Rheinland-Pfalz,iOS,nein
+Chrome Mobile,23,3,Salzburg,Android,nein
+Firefox,392,8,Vorarlberg,macOS,ja
+Firefox,142,9,Salzburg,macOS,nein
+Chrome Mobile,30,1,Steiermark,Android,ja
+Safari Mobile,40,3,Wien,iOS,nein
+Chrome Mobile,556,7,Rheinland-Pfalz,Android,nein
+Chrome,313,10,Berlin,Windows,ja
+Chrome Mobile,568,4,Sachsen,iOS,ja
+Edge,220,10,Oberösterreich,Windows,ja
+Safari Mobile,491,6,Bremen,iOS,nein
+Chrome Mobile,46,2,Baden-Württemberg,iOS,nein
+Safari Mobile,295,7,Sachsen-Anhalt,Android,nein
+Safari Mobile,239,10,Niederösterreich,Android,nein
+Edge,374,10,Vorarlberg,Windows,ja
+Safari Mobile,463,5,Burgenland,Android,ja
+Edge,158,9,Nordrhein-Westfalen,macOS,nein
+Chrome,368,13,Steiermark,Windows,ja
+Safari Mobile,20,2,Steiermark,iOS,nein
+Chrome,155,6,Bayern,Windows,nein
+Chrome Mobile,585,7,Sachsen,iOS,nein
+Chrome,268,10,Salzburg,Windows,nein
+Chrome Mobile,308,5,Thüringen,iOS,nein
+Chrome Mobile,27,2,Sachsen-Anhalt,iOS,nein
+Safari Mobile,577,11,Hamburg,Android,nein
+Chrome,126,12,Nordrhein-Westfalen,Windows,ja
+Safari Mobile,39,1,Sachsen,Android,nein
+Firefox,348,13,Baden-Württemberg,Windows,ja
+Chrome Mobile,516,10,Mecklenburg-Vorpommern,Android,nein
+Chrome,248,12,Vorarlberg,macOS,ja
+Edge,124,9,Hamburg,macOS,nein
+Safari Mobile,55,2,Brandenburg,iOS,nein
+Safari Mobile,293,6,Mecklenburg-Vorpommern,Android,nein
+Safari Mobile,215,8,Vorarlberg,Android,ja
+Safari Mobile,331,4,Bremen,Android,nein
+Chrome,231,8,Rheinland-Pfalz,Windows,ja
+Firefox,337,6,Nordrhein-Westfalen,Windows,nein
+Safari Mobile,54,1,Steiermark,Android,nein
+Firefox,171,11,Bayern,macOS,ja
+Safari Mobile,24,1,Schleswig-Holstein,Android,nein
+Chrome,187,5,Sachsen-Anhalt,Windows,ja
+Chrome Mobile,458,11,Steiermark,Android,nein
+Firefox,170,11,Oberösterreich,macOS,ja
+Safari Mobile,353,4,Vorarlberg,Android,nein
+Chrome,262,5,Salzburg,Windows,ja
+Chrome Mobile,50,2,Schleswig-Holstein,iOS,nein
+Chrome Mobile,395,11,Baden-Württemberg,Android,ja
+Chrome Mobile,22,1,Schleswig-Holstein,iOS,ja
+Firefox,181,12,Bremen,Windows,ja
+Safari Mobile,23,3,Burgenland,iOS,nein
+Safari Mobile,17,1,Steiermark,Android,nein
+Safari Mobile,578,11,Sachsen-Anhalt,Android,nein
+Chrome Mobile,292,10,Baden-Württemberg,iOS,ja
+Firefox,315,14,Salzburg,Windows,ja
+Chrome Mobile,346,7,Tirol,Android,nein
+Chrome Mobile,24,2,Mecklenburg-Vorpommern,iOS,nein
+Edge,252,12,Bremen,macOS,ja
+Chrome,311,7,Burgenland,macOS,ja
+Chrome Mobile,367,6,Salzburg,iOS,nein
+Chrome Mobile,22,1,Sachsen,iOS,nein
+Safari Mobile,24,3,Rheinland-Pfalz,Android,nein
+Chrome Mobile,412,8,Oberösterreich,iOS,nein
+Safari Mobile,45,1,Baden-Württemberg,Android,nein
+Chrome Mobile,48,2,Wien,Android,nein
+Chrome Mobile,59,1,Schleswig-Holstein,iOS,nein
+Safari Mobile,578,5,Vorarlberg,iOS,nein
+Chrome Mobile,43,3,Niedersachsen,Android,nein
+Chrome Mobile,55,3,Sachsen,Android,nein
+Safari Mobile,207,5,Rheinland-Pfalz,iOS,ja
+Firefox,215,12,Tirol,Windows,nein
+Chrome,147,8,Rheinland-Pfalz,macOS,ja
+Edge,230,12,Mecklenburg-Vorpommern,macOS,ja
+Chrome Mobile,277,9,Sachsen-Anhalt,Android,nein
+Chrome,300,7,Baden-Württemberg,macOS,ja
+Firefox,307,13,Schleswig-Holstein,macOS,ja
+Safari Mobile,18,1,Sachsen,Android,nein
+Safari Mobile,34,2,Berlin,Android,nein
+Edge,293,12,Kärnten,macOS,ja
+Chrome Mobile,54,2,Saarland,Android,nein
+Chrome Mobile,580,10,Niedersachsen,Android,nein
+Safari Mobile,207,6,Rheinland-Pfalz,Android,nein
+Firefox,121,10,Steiermark,Windows,ja
+Firefox,131,6,Niederösterreich,Windows,ja
+Chrome Mobile,430,10,Rheinland-Pfalz,iOS,nein
+Firefox,337,10,Tirol,Windows,ja
+Chrome Mobile,53,1,Berlin,Android,nein
+Chrome,237,8,Niederösterreich,Windows,ja
+Chrome Mobile,49,3,Sachsen,Android,nein
+Safari Mobile,33,2,Berlin,iOS,nein
+Firefox,252,7,Tirol,Windows,ja
+Edge,136,14,Wien,macOS,ja
+Chrome,250,6,Bremen,Windows,ja
+Chrome Mobile,414,4,Steiermark,Android,nein
+Chrome Mobile,551,9,Kärnten,Android,nein
+Chrome Mobile,25,2,Steiermark,iOS,nein
+Chrome Mobile,586,11,Saarland,iOS,nein
+Firefox,123,14,Sachsen,macOS,ja
+Safari Mobile,199,5,Vorarlberg,iOS,nein
+Firefox,246,14,Bayern,Windows,ja
+Safari Mobile,531,11,Nordrhein-Westfalen,Android,ja
+Edge,284,5,Niederösterreich,Windows,ja
+Edge,132,14,Hessen,Windows,ja
+Safari Mobile,48,3,Kärnten,Android,nein
+Chrome,165,6,Burgenland,Windows,ja
+Firefox,284,10,Salzburg,Windows,ja
+Safari Mobile,184,5,Steiermark,iOS,nein
+Safari Mobile,532,11,Berlin,Android,nein
+Safari Mobile,44,2,Brandenburg,Android,nein
+Safari Mobile,52,2,Wien,iOS,nein
+Edge,350,8,Hamburg,macOS,ja
+Chrome Mobile,434,8,Bremen,Android,nein
+Chrome,179,12,Rheinland-Pfalz,macOS,ja
+Chrome Mobile,298,10,Burgenland,Android,nein
+Chrome,289,10,Salzburg,Windows,ja
+Safari Mobile,583,5,Bremen,iOS,nein
+Firefox,205,13,Sachsen-Anhalt,Windows,ja
+Edge,282,7,Baden-Württemberg,macOS,ja
+Chrome Mobile,248,8,Bremen,iOS,nein
+Chrome,299,12,Steiermark,Windows,ja
+Edge,325,8,Niederösterreich,Windows,ja
+Chrome,225,7,Burgenland,macOS,ja
+Chrome Mobile,598,5,Sachsen-Anhalt,iOS,nein
+Firefox,203,13,Burgenland,Windows,ja
+Firefox,213,5,Bremen,Windows,ja
+Edge,377,12,Saarland,Windows,nein
+Chrome Mobile,49,1,Bremen,Android,nein
+Chrome Mobile,57,1,Niedersachsen,Android,nein
+Chrome Mobile,579,9,Nordrhein-Westfalen,Android,nein
+Chrome Mobile,34,1,Hamburg,Android,nein
+Safari Mobile,488,6,Niedersachsen,Android,nein
+Chrome Mobile,55,2,Oberösterreich,Android,ja
+Safari Mobile,508,7,Sachsen-Anhalt,iOS,nein
+Firefox,359,5,Niedersachsen,Windows,ja
+Firefox,383,7,Sachsen-Anhalt,Windows,ja
+Safari Mobile,581,10,Niedersachsen,iOS,nein
+Chrome Mobile,17,2,Sachsen-Anhalt,Android,nein
+Safari Mobile,16,3,Nordrhein-Westfalen,iOS,nein
+Safari Mobile,208,8,Schleswig-Holstein,iOS,ja
+Chrome,375,13,Bayern,Windows,nein
+Chrome Mobile,535,11,Niederösterreich,iOS,nein
+Chrome,186,13,Sachsen,Windows,ja
+Firefox,256,11,Berlin,Windows,ja
+Firefox,313,12,Niederösterreich,Windows,ja
+Chrome,392,13,Rheinland-Pfalz,Windows,ja
+Safari Mobile,41,2,Baden-Württemberg,Android,nein
+Safari Mobile,337,8,Bayern,iOS,nein
+Edge,390,12,Salzburg,macOS,ja
+Chrome Mobile,11,2,Burgenland,Android,nein
+Edge,350,5,Baden-Württemberg,macOS,ja
+Edge,267,11,Oberösterreich,macOS,nein
+Chrome,188,10,Tirol,macOS,ja
+Safari Mobile,43,2,Tirol,iOS,nein
+Safari Mobile,55,1,Burgenland,Android,nein
+Edge,131,7,Bremen,Windows,ja
+Chrome,399,11,Bayern,Windows,ja
+Safari Mobile,59,1,Niederösterreich,Android,nein
+Firefox,352,7,Hessen,Windows,ja
+Chrome Mobile,14,1,Burgenland,iOS,nein
+Chrome Mobile,59,2,Bremen,iOS,ja
+Safari Mobile,225,8,Baden-Württemberg,iOS,nein
+Safari Mobile,397,6,Mecklenburg-Vorpommern,iOS,nein
+Safari Mobile,44,2,Mecklenburg-Vorpommern,Android,nein
+Firefox,334,10,Niederösterreich,Windows,ja
+Chrome Mobile,329,11,Wien,Android,nein
+Safari Mobile,48,3,Vorarlberg,Android,nein
+Safari Mobile,15,1,Hessen,iOS,nein
+Chrome Mobile,17,2,Salzburg,iOS,nein
+Firefox,308,12,Burgenland,Windows,ja
+Edge,188,12,Baden-Württemberg,macOS,ja
+Safari Mobile,445,4,Bayern,Android,nein
+Safari Mobile,440,7,Hamburg,iOS,nein
+Chrome Mobile,204,10,Brandenburg,iOS,ja
+Safari Mobile,49,1,Tirol,iOS,nein
+Chrome Mobile,247,7,Mecklenburg-Vorpommern,Android,nein
+Chrome,120,14,Sachsen-Anhalt,Windows,ja
+Chrome,365,11,Nordrhein-Westfalen,Windows,ja
+Chrome Mobile,15,1,Thüringen,iOS,nein
+Edge,197,7,Schleswig-Holstein,Windows,ja
+Chrome Mobile,35,3,Nordrhein-Westfalen,Android,ja
+Chrome Mobile,465,4,Baden-Württemberg,iOS,nein
+Firefox,350,8,Sachsen,Windows,ja
+Firefox,170,5,Bremen,Windows,ja
+Safari Mobile,40,3,Saarland,iOS,nein
+Chrome Mobile,441,9,Wien,Android,ja
+Edge,146,13,Hamburg,Windows,ja
+Chrome Mobile,39,1,Tirol,iOS,nein
+Chrome,332,6,Schleswig-Holstein,macOS,ja
+Safari Mobile,19,3,Sachsen,Android,nein
+Chrome,265,9,Nordrhein-Westfalen,Windows,ja
+Safari Mobile,289,11,Steiermark,iOS,nein
+Edge,218,11,Thüringen,macOS,ja
+Safari Mobile,293,9,Oberösterreich,Android,nein
+Chrome Mobile,21,2,Oberösterreich,iOS,nein
+Safari Mobile,48,3,Kärnten,iOS,nein
+Chrome,266,8,Wien,Windows,ja
+Chrome Mobile,574,5,Schleswig-Holstein,iOS,nein
+Chrome Mobile,275,7,Sachsen,Android,nein
+Chrome Mobile,337,7,Berlin,Android,nein
+Safari Mobile,359,5,Niedersachsen,iOS,nein
+Chrome Mobile,53,2,Sachsen-Anhalt,iOS,nein
+Chrome Mobile,200,7,Kärnten,Android,nein
+Safari Mobile,196,11,Salzburg,iOS,nein
+Chrome Mobile,189,8,Sachsen-Anhalt,Android,nein
+Safari Mobile,298,9,Kärnten,Android,nein
+Edge,256,14,Oberösterreich,Windows,ja
+Chrome Mobile,53,3,Rheinland-Pfalz,Android,ja
+Edge,253,10,Burgenland,macOS,ja
+Firefox,396,5,Saarland,Windows,ja
+Chrome Mobile,450,6,Berlin,iOS,ja
+Safari Mobile,454,4,Oberösterreich,Android,nein
+Safari Mobile,579,8,Wien,Android,nein
+Chrome Mobile,24,1,Niederösterreich,Android,nein
+Safari Mobile,380,7,Baden-Württemberg,iOS,nein
+Chrome Mobile,46,1,Bremen,iOS,nein
+Safari Mobile,59,3,Tirol,Android,nein
+Chrome,353,6,Berlin,Windows,ja
+Edge,126,14,Hessen,macOS,ja
+Chrome Mobile,52,2,Tirol,Android,nein
+Safari Mobile,29,2,Brandenburg,Android,nein
+Chrome Mobile,489,9,Niedersachsen,iOS,nein
+Chrome Mobile,47,1,Schleswig-Holstein,iOS,nein
+Chrome,148,9,Rheinland-Pfalz,Windows,ja
+Safari Mobile,35,1,Sachsen,Android,nein
+Safari Mobile,14,1,Burgenland,iOS,nein
+Chrome Mobile,460,8,Steiermark,Android,nein
+Chrome,129,12,Kärnten,Windows,ja
+Safari Mobile,18,3,Wien,iOS,nein
+Chrome Mobile,570,6,Tirol,iOS,nein
+Edge,399,5,Nordrhein-Westfalen,macOS,ja
+Safari Mobile,51,2,Rheinland-Pfalz,iOS,nein
+Safari Mobile,40,3,Nordrhein-Westfalen,Android,nein
+Chrome,153,12,Hessen,Windows,ja
+Chrome Mobile,39,2,Sachsen-Anhalt,Android,nein
+Safari Mobile,23,2,Nordrhein-Westfalen,Android,nein
+Firefox,160,11,Niedersachsen,Windows,ja
+Edge,266,14,Baden-Württemberg,Windows,ja
+Firefox,390,12,Sachsen-Anhalt,macOS,ja
+Edge,141,10,Hamburg,Windows,ja
+Chrome,374,11,Niedersachsen,macOS,ja
+Edge,247,5,Kärnten,macOS,ja
+Chrome Mobile,15,3,Oberösterreich,Android,nein
+Chrome Mobile,567,11,Vorarlberg,iOS,nein
+Firefox,223,12,Niederösterreich,Windows,ja
+Safari Mobile,56,3,Niederösterreich,Android,nein
+Firefox,257,6,Sachsen,Windows,ja
+Safari Mobile,375,5,Oberösterreich,iOS,nein
+Chrome,174,11,Berlin,Windows,ja
+Safari Mobile,53,1,Mecklenburg-Vorpommern,iOS,nein
+Safari Mobile,484,6,Niederösterreich,Android,nein
+Firefox,394,10,Hessen,macOS,ja
+Safari Mobile,559,7,Oberösterreich,iOS,nein
+Safari Mobile,245,6,Mecklenburg-Vorpommern,Android,ja
+Firefox,182,8,Wien,Windows,nein
+Chrome,331,7,Hamburg,Windows,nein
+Firefox,332,9,Bremen,macOS,ja
+Chrome,168,14,Thüringen,Windows,ja
+Chrome Mobile,489,11,Hessen,iOS,ja
+Safari Mobile,596,8,Niedersachsen,Android,nein
+Chrome Mobile,13,2,Wien,iOS,nein
+Chrome Mobile,360,5,Bremen,Android,nein
+Chrome Mobile,38,2,Wien,Android,nein
+Chrome,373,8,Steiermark,Windows,ja
+Chrome Mobile,29,2,Rheinland-Pfalz,Android,nein
+Safari Mobile,38,2,Salzburg,Android,nein
+Chrome,336,10,Burgenland,macOS,ja
+Safari Mobile,47,3,Bayern,iOS,nein
+Chrome Mobile,493,9,Saarland,Android,nein
+Safari Mobile,45,1,Mecklenburg-Vorpommern,Android,nein
+Safari Mobile,24,1,Sachsen,Android,nein
+Edge,348,9,Sachsen-Anhalt,Windows,ja
+Chrome Mobile,548,4,Mecklenburg-Vorpommern,iOS,nein
+Chrome Mobile,21,3,Sachsen,Android,nein
+Firefox,245,7,Sachsen,Windows,ja
+Chrome,378,5,Hamburg,Windows,ja
+Chrome Mobile,17,3,Mecklenburg-Vorpommern,Android,nein
+Firefox,298,11,Burgenland,Windows,ja
+Safari Mobile,511,9,Saarland,iOS,nein
+Safari Mobile,20,3,Oberösterreich,Android,nein
+Safari Mobile,294,4,Hamburg,Android,nein
+Edge,223,8,Berlin,macOS,ja
+Safari Mobile,41,1,Berlin,Android,nein
+Edge,174,7,Mecklenburg-Vorpommern,macOS,ja
+Chrome Mobile,186,6,Steiermark,iOS,nein
+Firefox,329,6,Burgenland,Windows,ja
+Chrome,129,10,Bremen,Windows,nein
+Firefox,158,8,Baden-Württemberg,macOS,ja
+Chrome Mobile,29,2,Burgenland,Android,nein
+Safari Mobile,44,2,Burgenland,Android,nein
+Safari Mobile,481,4,Mecklenburg-Vorpommern,iOS,ja
+Safari Mobile,312,9,Tirol,iOS,nein
+Firefox,173,9,Baden-Württemberg,macOS,ja
+Edge,336,9,Wien,macOS,ja
+Safari Mobile,533,11,Sachsen-Anhalt,iOS,nein
+Chrome Mobile,473,7,Nordrhein-Westfalen,iOS,nein
+Safari Mobile,53,2,Hamburg,Android,nein
+Safari Mobile,291,8,Niedersachsen,Android,nein
+Chrome,342,10,Bayern,macOS,ja
+Edge,195,13,Nordrhein-Westfalen,Windows,ja
+Firefox,378,8,Brandenburg,Windows,ja
+Edge,273,12,Niederösterreich,Windows,ja
+Chrome,330,5,Sachsen,Windows,ja
+Edge,248,13,Wien,macOS,ja
+Chrome Mobile,29,1,Wien,iOS,nein
+Chrome Mobile,480,7,Vorarlberg,iOS,ja
+Chrome Mobile,315,5,Thüringen,iOS,nein
+Safari Mobile,44,1,Saarland,iOS,ja
+Edge,358,6,Hamburg,macOS,ja
+Safari Mobile,25,3,Salzburg,iOS,nein
+Safari Mobile,33,1,Burgenland,iOS,nein
+Chrome Mobile,22,1,Tirol,Android,nein
+Safari Mobile,551,9,Schleswig-Holstein,Android,nein
+Chrome Mobile,25,1,Thüringen,Android,nein
+Chrome Mobile,340,5,Salzburg,Android,nein
+Chrome,303,12,Bremen,Windows,ja
+Safari Mobile,27,2,Schleswig-Holstein,iOS,nein
+Edge,247,5,Thüringen,macOS,ja
+Chrome Mobile,437,9,Sachsen,iOS,nein
+Edge,357,8,Bremen,Windows,ja
+Chrome Mobile,43,1,Sachsen-Anhalt,Android,nein
+Chrome Mobile,276,7,Brandenburg,Android,nein
+Safari Mobile,405,9,Berlin,iOS,nein
+Firefox,343,5,Baden-Württemberg,Windows,ja
+Chrome Mobile,576,4,Niedersachsen,Android,nein
+Chrome Mobile,16,1,Tirol,Android,nein
+Firefox,324,7,Schleswig-Holstein,Windows,ja
+Edge,173,13,Schleswig-Holstein,Windows,ja
+Chrome Mobile,51,1,Bremen,iOS,nein
+Firefox,208,12,Sachsen,Windows,ja
+Chrome Mobile,367,7,Niederösterreich,Android,nein
+Safari Mobile,47,2,Brandenburg,Android,nein
+Edge,238,9,Nordrhein-Westfalen,Windows,ja
+Chrome Mobile,476,7,Bremen,iOS,nein
+Firefox,142,14,Sachsen-Anhalt,Windows,ja
+Chrome Mobile,50,3,Berlin,iOS,nein
+Edge,272,5,Baden-Württemberg,Windows,ja
+Firefox,146,6,Salzburg,macOS,ja
+Chrome,351,7,Steiermark,macOS,ja
+Safari Mobile,246,7,Wien,iOS,nein
+Chrome,383,7,Tirol,Windows,ja
+Edge,320,14,Bayern,Windows,ja
+Edge,254,9,Niedersachsen,macOS,ja
+Chrome Mobile,314,10,Saarland,Android,ja
+Safari Mobile,58,1,Vorarlberg,Android,nein
+Firefox,280,5,Rheinland-Pfalz,Windows,ja
+Chrome Mobile,545,7,Rheinland-Pfalz,iOS,nein
+Firefox,160,8,Steiermark,Windows,ja
+Safari Mobile,211,10,Salzburg,Android,nein
+Chrome Mobile,24,3,Rheinland-Pfalz,Android,nein
+Firefox,170,12,Niedersachsen,macOS,nein
+Edge,266,8,Berlin,Windows,ja
+Edge,383,14,Nordrhein-Westfalen,Windows,ja
+Chrome Mobile,235,10,Niedersachsen,iOS,nein
+Edge,185,14,Sachsen,Windows,ja
+Edge,248,14,Baden-Württemberg,Windows,ja
+Chrome Mobile,554,11,Baden-Württemberg,Android,nein
+Safari Mobile,14,3,Salzburg,Android,nein
+Firefox,233,10,Niederösterreich,Windows,ja
+Firefox,188,8,Rheinland-Pfalz,Windows,nein
+Edge,346,8,Rheinland-Pfalz,Windows,ja
+Safari Mobile,29,3,Saarland,iOS,nein
+Chrome Mobile,569,4,Sachsen,Android,nein
+Chrome Mobile,242,8,Oberösterreich,iOS,nein
+Firefox,284,13,Hamburg,Windows,ja
+Chrome,200,5,Bayern,Windows,ja
+Firefox,167,5,Brandenburg,Windows,ja
+Edge,387,7,Baden-Württemberg,macOS,nein
+Chrome Mobile,411,8,Rheinland-Pfalz,Android,nein
+Chrome,283,14,Mecklenburg-Vorpommern,Windows,ja
+Chrome Mobile,369,6,Niederösterreich,iOS,nein
+Firefox,204,13,Sachsen-Anhalt,Windows,ja
+Chrome Mobile,30,3,Vorarlberg,iOS,nein
+Safari Mobile,48,1,Oberösterreich,Android,nein
+Chrome Mobile,59,3,Rheinland-Pfalz,iOS,ja
+Chrome Mobile,367,4,Sachsen,iOS,ja
+Safari Mobile,43,2,Schleswig-Holstein,iOS,nein
+Safari Mobile,400,9,Berlin,Android,ja
+Safari Mobile,15,1,Bremen,Android,nein
+Safari Mobile,406,4,Salzburg,iOS,nein
+Chrome,277,9,Hamburg,macOS,ja
+Edge,348,14,Salzburg,Windows,ja
+Chrome Mobile,44,3,Hessen,Android,ja
+Chrome Mobile,495,10,Hamburg,iOS,ja
+Chrome Mobile,341,6,Tirol,Android,nein
+Chrome Mobile,30,2,Mecklenburg-Vorpommern,Android,nein
+Safari Mobile,51,1,Nordrhein-Westfalen,iOS,nein
+Safari Mobile,51,3,Hamburg,iOS,nein
+Chrome Mobile,286,4,Steiermark,iOS,nein
+Chrome Mobile,416,7,Vorarlberg,Android,nein
+Firefox,181,8,Thüringen,macOS,ja
+Chrome Mobile,187,8,Thüringen,iOS,nein
+Chrome Mobile,47,3,Sachsen,iOS,nein
+Chrome Mobile,23,1,Schleswig-Holstein,iOS,nein
+Chrome Mobile,567,11,Berlin,Android,nein
+Safari Mobile,467,7,Bayern,Android,nein
+Edge,298,10,Vorarlberg,Windows,ja
+Firefox,120,7,Sachsen,Windows,ja
+Edge,207,9,Brandenburg,Windows,ja
+Edge,127,8,Mecklenburg-Vorpommern,Windows,ja
+Chrome,214,7,Niederösterreich,macOS,ja
+Chrome Mobile,456,7,Vorarlberg,iOS,ja
+Safari Mobile,17,3,Sachsen,Android,nein
+Edge,279,12,Niedersachsen,Windows,ja
+Chrome,121,5,Thüringen,Windows,nein
+Safari Mobile,248,11,Saarland,Android,nein
+Safari Mobile,25,3,Mecklenburg-Vorpommern,iOS,nein
+Chrome,314,6,Niederösterreich,macOS,ja
+Chrome,280,7,Kärnten,Windows,ja
+Safari Mobile,58,1,Steiermark,iOS,nein
+Safari Mobile,209,10,Saarland,iOS,nein
+Chrome Mobile,47,3,Sachsen-Anhalt,iOS,nein
+Chrome Mobile,48,1,Burgenland,iOS,ja
+Safari Mobile,16,1,Salzburg,iOS,nein
+Safari Mobile,25,2,Mecklenburg-Vorpommern,Android,nein
+Firefox,125,5,Bremen,Windows,nein
+Chrome Mobile,34,1,Bayern,Android,nein
+Chrome Mobile,376,6,Rheinland-Pfalz,iOS,nein
+Chrome Mobile,47,1,Steiermark,iOS,nein
+Chrome Mobile,598,4,Vorarlberg,Android,nein
+Edge,173,12,Baden-Württemberg,macOS,ja
+Firefox,256,6,Saarland,Windows,ja
+Safari Mobile,26,2,Steiermark,Android,nein
+Safari Mobile,379,4,Tirol,iOS,nein
+Safari Mobile,218,8,Rheinland-Pfalz,Android,ja
+Chrome Mobile,27,2,Burgenland,Android,nein
+Firefox,368,10,Baden-Württemberg,Windows,ja
+Chrome,144,8,Salzburg,Windows,ja
+Chrome Mobile,353,7,Saarland,iOS,nein
+Chrome Mobile,331,8,Saarland,iOS,nein
+Chrome Mobile,50,1,Mecklenburg-Vorpommern,iOS,nein
+Firefox,223,7,Hamburg,macOS,ja
+Chrome,296,8,Saarland,macOS,nein
+Safari Mobile,230,8,Niederösterreich,Android,nein
+Chrome,245,13,Burgenland,Windows,ja
+Edge,220,9,Sachsen-Anhalt,Windows,ja
+Chrome Mobile,35,1,Schleswig-Holstein,Android,nein
+Chrome Mobile,447,5,Hessen,iOS,nein
+Firefox,251,13,Sachsen,Windows,ja
+Safari Mobile,17,2,Saarland,iOS,nein
+Chrome Mobile,25,1,Thüringen,iOS,nein
+Firefox,127,5,Wien,macOS,ja
+Edge,383,6,Berlin,Windows,ja
+Chrome Mobile,56,1,Nordrhein-Westfalen,Android,nein
+Chrome Mobile,378,8,Nordrhein-Westfalen,Android,nein
+Firefox,329,13,Baden-Württemberg,Windows,ja
+Chrome Mobile,27,3,Baden-Württemberg,Android,nein
+Firefox,281,5,Tirol,macOS,nein
+Chrome Mobile,15,3,Steiermark,Android,nein
+Chrome,237,10,Sachsen,macOS,ja
+Chrome,361,14,Niedersachsen,macOS,ja
+Chrome Mobile,545,9,Niederösterreich,Android,nein
+Safari Mobile,37,1,Salzburg,Android,nein
+Chrome Mobile,430,7,Tirol,Android,nein
+Chrome,184,6,Schleswig-Holstein,Windows,ja
+Chrome,264,11,Wien,Windows,ja
+Safari Mobile,55,1,Baden-Württemberg,Android,nein
+Safari Mobile,377,10,Sachsen-Anhalt,iOS,nein
+Chrome Mobile,54,3,Thüringen,iOS,nein
+Chrome Mobile,474,8,Salzburg,iOS,nein
+Safari Mobile,18,2,Niedersachsen,Android,nein
+Firefox,378,6,Saarland,Windows,ja
+Safari Mobile,566,11,Saarland,iOS,nein
+Chrome Mobile,238,10,Bremen,Android,nein
+Edge,297,7,Baden-Württemberg,macOS,ja
+Chrome Mobile,28,2,Hamburg,iOS,nein
+Firefox,346,9,Schleswig-Holstein,macOS,ja
