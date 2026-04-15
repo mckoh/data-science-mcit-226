@@ -6,3 +6,4 @@ pandas
 jupyter
 ipython
 streamlit
+seaborn
